@@ -1,2 +1,2 @@
 # Spotify-clone
-Webpage using Html, CSS, js
+Webpage using Html, CSS.
